@@ -34,4 +34,4 @@ git pull
 
 pull request через Git Hub из своего в чужой
 
-
+проверка pull
